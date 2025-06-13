@@ -42,8 +42,8 @@ I have strong expertise in:
 
 ## 📊 GitHub Stats
 
-![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=emrekocoglu&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrekocoglu&layout=compact&theme=dark)
+![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=emrekcgll&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrekcgll&layout=compact&theme=dark)
 
 ---
 
