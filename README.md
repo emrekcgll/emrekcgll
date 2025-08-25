@@ -1,6 +1,5 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Emre Koçoğlu
+![Profile Views](https://komarev.com/ghpvc/?username=emrekcgll&color=blue&style=flat-square)
 
 🌍 **Istanbul, Türkiye**  
 📫 **emrekcgll@gmail.com** | [LinkedIn](https://www.linkedin.com/in/emrekocoglu/)
@@ -9,14 +8,34 @@
 
 ## 🚀 About Me
 
-I'm an experienced **Software Developer** specializing in **Python (Django, FastAPI)**, **Docker**, and **.NET** for building scalable applications.  
-I have strong expertise in:
-- **Odoo ERP** development, customization, and integration  
-- **Cloud deployments** on **AWS**, **GCP**, and **DigitalOcean**
-- **Asynchronous task management** with **Redis** and **Celery**
-- **Web scraping** with **Selenium** and **BeautifulSoup**
-- **Data analysis** using **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**
-- **Machine learning** with **Scikit-learn** (predictive, data-driven solutions)
+I’m a Backend & ERP Developer with expertise in Python (Django, FastAPI), Odoo ERP, .Net Core and cloud-based deployments.
+I specialize in building scalable APIs, custom ERP modules, and high-performance backend systems.
+
+---
+
+## ✅ Core Expertise  
+
+### **Enterprise-grade API Design & Development**  
+- Building **secure, high-performance RESTful APIs** with **advanced JWT authentication**, **role-based access control (RBAC)**, token lifecycle management, and refresh strategies.  
+- Implementing **best practices for scalability, observability, and fault tolerance** in microservices architectures.  
+
+### **Odoo ERP Customization & Integration**  
+- Developing **custom ERP modules**, **workflow automation**, and **third-party API integrations** for CRM, Inventory, and E-commerce.  
+- Optimizing ERP performance and ensuring **data consistency across multi-company environments**.  
+
+### **Asynchronous Task Management & Distributed Systems**  
+- Architecting **background task pipelines** using **Redis & Celery**, ensuring **resilience, scalability, and error recovery mechanisms** for large-scale data processing.  
+
+### **Data Analysis, Automation & Machine Learning**  
+- Leveraging **Pandas, NumPy, and Matplotlib** for **automated reporting, predictive analytics, and data-driven decision-making**.  
+- Building **ML models** for **classification, regression, and clustering** using **Scikit-learn**, and exploring **deep learning** applications for advanced insights.  
+
+### **Web Scraping & Data Mining**  
+- Building **scalable, fault-tolerant web crawlers** with **Selenium & BeautifulSoup**, implementing **anti-bot mitigation**, **headless browser automation**, and **parallel scraping strategies**.  
+
+### **Cloud-Native Deployment & Infrastructure**  
+- Designing and deploying **high-availability applications** on **AWS & GCP**, leveraging **Docker, Linux-based environments, and CI/CD pipelines**.  
+- Implementing **reverse proxies (Nginx)**, **load balancing**, and **security hardening** (SSL, firewall rules, OS-level hardening) for production systems.  
 
 ---
 
@@ -35,6 +54,7 @@ I have strong expertise in:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 </p>
 
 ---
