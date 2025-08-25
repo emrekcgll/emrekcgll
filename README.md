@@ -15,7 +15,7 @@ I specialize in building scalable APIs, custom ERP modules, and high-performance
 
 ## ✅ Core Expertise  
 
-### **Enterprise-grade API Design & Development**  
+### **API Design & Development**  
 - Building **secure, high-performance RESTful APIs** with **advanced JWT authentication**, **role-based access control (RBAC)**, token lifecycle management, and refresh strategies.  
 - Implementing **best practices for scalability, observability, and fault tolerance** in microservices architectures.  
 
