@@ -1,11 +1,6 @@
 # 👋 Hi, I'm Emre Koçoğlu
 ![Profile Views](https://komarev.com/ghpvc/?username=emrekcgll&color=blue&style=flat-square)
 
-🌍 **Istanbul, Türkiye**  
-📫 **emrekcgll@gmail.com** | [LinkedIn](https://www.linkedin.com/in/emrekocoglu/)
-
----
-
 ## 🚀 About Me
 
 I’m a Backend & ERP Developer with expertise in Python (Django, FastAPI), Odoo ERP, .Net Core and cloud-based deployments.
