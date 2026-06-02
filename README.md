@@ -3,34 +3,46 @@
 
 ## 🚀 About Me
 
-I’m a Backend & ERP Developer with expertise in Python (Django, FastAPI), Odoo ERP, .Net Core and cloud-based deployments.
-I specialize in building scalable APIs, custom ERP modules, and high-performance backend systems.
+I’m a Backend & ERP Developer experienced in Python, Django, FastAPI, Odoo ERP, .NET Core, AI integrations, payment gateway integrations, data scraping, and cloud-based deployments. I focus on developing scalable APIs, custom ERP modules, intelligent automation solutions, secure payment processes, automated data extraction pipelines, and reliable backend architectures.
 
 ---
 
 ## ✅ Core Expertise  
 
-### **API Design & Development**  
-- Building **secure, high-performance RESTful APIs** with **advanced JWT authentication**, **role-based access control (RBAC)**, token lifecycle management, and refresh strategies.  
-- Implementing **best practices for scalability, observability, and fault tolerance** in microservices architectures.  
+### **Backend Development**  
+- Developing secure and scalable backend applications with **Python, Django, FastAPI, and .NET Core**.  
+- Designing RESTful APIs with **JWT authentication**, **RBAC**, refresh token strategies, and clean service-layer architecture.  
+- Building reliable backend systems focused on performance, maintainability, and long-term scalability.  
 
-### **Odoo ERP Customization & Integration**  
-- Developing **custom ERP modules**, **workflow automation**, and **third-party API integrations** for CRM, Inventory, and E-commerce.  
-- Optimizing ERP performance and ensuring **data consistency across multi-company environments**.  
+### **Odoo ERP Development**  
+- Developing custom Odoo modules and business workflows for **CRM, Sales, Inventory, Accounting, Manufacturing, and E-commerce**.  
+- Integrating Odoo with third-party APIs, payment providers, external platforms, and automation services.  
+- Improving ERP usability, performance, and data consistency in multi-company and multi-website environments.  
 
-### **Asynchronous Task Management & Distributed Systems**  
-- Architecting **background task pipelines** using **Redis & Celery**, ensuring **resilience, scalability, and error recovery mechanisms** for large-scale data processing.  
+### **AI & Business Automation**  
+- Building AI-supported solutions for document processing, data extraction, workflow automation, and decision support.  
+- Automating repetitive business processes with backend services, scheduled jobs, and ERP workflows.  
+- Creating practical automation tools that reduce manual work and improve operational efficiency.  
 
-### **Data Analysis, Automation & Machine Learning**  
-- Leveraging **Pandas, NumPy, and Matplotlib** for **automated reporting, predictive analytics, and data-driven decision-making**.  
-- Building **ML models** for **classification, regression, and clustering** using **Scikit-learn**, and exploring **deep learning** applications for advanced insights.  
+### **Payment Integrations**  
+- Implementing payment gateway integrations, transaction flows, installment processes, payment status tracking, and secure payment workflows.  
+- Connecting payment systems with ERP, accounting, invoicing, and customer-facing applications.  
 
-### **Web Scraping & Data Mining**  
-- Building **scalable, fault-tolerant web crawlers** with **Selenium & BeautifulSoup**, implementing **anti-bot mitigation**, **headless browser automation**, and **parallel scraping strategies**.  
+### **Web Scraping & Data Processing**  
+- Developing web scraping and data extraction tools with **Selenium, BeautifulSoup, and Python**.  
+- Building automation scripts and data pipelines for structured data collection, reporting, and business intelligence.  
 
-### **Cloud-Native Deployment & Infrastructure**  
-- Designing and deploying **high-availability applications** on **AWS & GCP**, leveraging **Docker, Linux-based environments, and CI/CD pipelines**.  
-- Implementing **reverse proxies (Nginx)**, **load balancing**, and **security hardening** (SSL, firewall rules, OS-level hardening) for production systems.  
+### **Asynchronous Processing**  
+- Managing background tasks and distributed workflows using **Redis and Celery**.  
+- Implementing retry mechanisms, error handling, logging, and recovery strategies for long-running processes.  
+
+### **Data Analysis & Machine Learning**  
+- Using **Pandas, NumPy, Matplotlib, and Scikit-learn** for reporting, analysis, and machine learning tasks.  
+- Working on classification, regression, clustering, and practical AI/ML use cases.  
+
+### **Cloud & Deployment**  
+- Deploying and maintaining applications on **Linux servers, AWS, and GCP** using **Docker, Nginx, and CI/CD pipelines**.  
+- Managing production environments, SSL, reverse proxies, firewall rules, backups, and server security.  
 
 ---
 
@@ -53,15 +65,6 @@ I specialize in building scalable APIs, custom ERP modules, and high-performance
 </p>
 
 ---
-
-
-## 📊 GitHub Stats
-
-![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=emrekcgll&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrekcgll&layout=compact&theme=dark)
-
----
-
 
 ## 🏅 Certifications & Awards
 
